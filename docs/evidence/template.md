@@ -1,17 +1,17 @@
-# GitHub Practice Evidence — [ชื่อ-สกุล]
+# GitHub Practice Evidence — [ธนกฤษณ์ เพ็ชยมาตร์]
 
 ## 1. My GitHub Username
 
-[ใส่ GitHub username]
+[thanakit556]
 
 ## 2. My Team / Role
 
-- Team:
-- Role in Sprint:
+- Team:14
+- Role in Sprint:developer
 
 ## 3. What I did in this repo
 
-อธิบายสั้น ๆ ว่าเพิ่มหรือแก้ไขอะไรใน repo นี้
+เอาไวอัพเดทขข้อมุลกับเพื่อน
 
 ## 4. Evidence Link
 
@@ -21,6 +21,6 @@
 
 ## 5. Reflection
 
-1. วันนี้ฉันเพิ่ม/แก้ไขอะไรใน repo:
-2. ฉันใช้วิธีไหน: GitHub Web / GitHub Desktop / command line / อื่น ๆ
-3. ฉันติดปัญหาอะไร และแก้อย่างไร:
+1. วันนี้ฉันเพิ่ม/แก้ไขอะไรใน repo:งานตัวตนแบบ
+2. ฉันใช้วิธีไหน: GitHub Web 
+3. ฉันติดปัญหาอะไร และแก้อย่างไร:ยังใช้gitไม่คล่อง แก้โดยหาข้อมูลเพิ่ม
