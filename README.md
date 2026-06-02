@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| ธนกฤษณ์ เพ็ชยะมาตร์ | Team 14 | Demo |(docs/evidence/67050556-Thanakit.md) | - |
+| ธนกฤษณ์ เพ็ชยะมาตร์ | Team 14 | Demo |(docse/evidence/67050556Thanakit) | - |
 
 ---
 
